@@ -13,8 +13,8 @@
   <a href="https://github.com/loadedxfiending/SeralythReborn-Menu/releases">
     <img src="https://img.shields.io/github/v/release/loadedxfiending/SeralythReborn-Menu?label=version&style=for-the-badge">
   </a>
-  <a href="https://github.com/loadedxfiending/SeralythReborn-Menu/releases/tag/Seraly">
-    <img src="https://img.shields.io/github/downloads/loadedxfiending/SeralythReborn-Menu/Seraly/SeralythReborn.dll?style=for-the-badge">
+  <a href="https://github.com/loadedxfiending/SeralythReborn-Menu/releases/tag/Seralyth">
+    <img src="https://img.shields.io/github/downloads/loadedxfiending/SeralythReborn-Menu/Seralyth/SeralythReborn.dll?style=for-the-badge">
   </a>
   <a href="https://discord.gg/n9s75fNb46">
     <img src="https://img.shields.io/discord/1500168360787447909?label=discord&style=for-the-badge&color=blueviolet">
@@ -60,7 +60,7 @@ Let's bring back the collaboration of modding. No paywalls, no secrets, no malwa
 <details>
   <summary><b>💾 Installation</b></summary>
 
-1. **Download** the latest Seralyth Reborn release from [**here**](https://github.com/loadedxfiending/SeralythReborn-Menu/releases/tag/Seraly)
+1. **Download** `SeralythReborn.dll` from the [**Seralyth Reborn release**](https://github.com/loadedxfiending/SeralythReborn-Menu/releases/tag/Seralyth)
 2. **Drag & Drop** `SeralythReborn.dll` into your plugins folder
 3. **Launch** Gorilla Tag and enjoy!
 
