@@ -13,10 +13,11 @@
 
 ---
 
-# Seralyth Menu
+# Seralyth Reborn
+
 <sub>Forked from ii's Stupid Menu</sub>
 
-Seralyth Menu is a **feature-packed** mod menu for Gorilla Tag, built by the community, for the community. Whether you just want mods, are a developer, or anything in between, this menu has you covered. Designed to be **as useful as possible**, it includes a variety of features and options that let you customize your modding experience to your heart’s content.
+Seralyth Reborn is a **feature-packed** mod menu for Gorilla Tag, built by the community, for the community. Whether you just want mods, are a developer, or anything in between, this menu has you covered. Designed to be **as useful as possible**, it includes a variety of features and options that let you customize your modding experience to your heart’s content.
 
 <details>
   <summary><b>💡 Why open-source?</b></summary>
@@ -37,25 +38,25 @@ Let's bring back the collaboration of modding. No paywalls, no secrets, no malwa
 <details>
   <summary><b>❓ Can I use your code?</b></summary>
 
-**Of course!** But there’s a catch: you gotta play fair. **[GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.html) rules apply**, which means that if you use my code:
+**Of course!** But there’s a catch: you gotta play fair. [**GPL-3.0 License**](https://www.gnu.org/licenses/gpl-3.0.html) rules apply, which means that if you use my code:
 
 - Your project **must** also be open-source.
 - Give credit where it's due.
 - No shady stuff.
-- **[Follow the license.](https://www.gnu.org/licenses/gpl-3.0.html)**
+- [**Follow the license.**](https://www.gnu.org/licenses/gpl-3.0.html)
 
 </details>
 
 <details>
   <summary><b>💾 Installation</b></summary>
 
-1. **Download** the latest release **[here](https://github.com/Seralyth/Seralyth-Menu/releases/latest)**
+1. **Download** the latest release [**here**](https://github.com/Seralyth/Seralyth-Menu/releases/latest)
 2. **Drag & Drop** `Seralyth-Menu.dll` into your plugins folder
 3. **Launch** Gorilla Tag and enjoy!
 
 **🧱 From Source Code (for developers!)**
 
-1. Download the source code **[here](https://github.com/Seralyth/Seralyth-Menu/releases/latest)**
+1. Download the source code [**here**](https://github.com/Seralyth/Seralyth-Menu/releases/latest)
 2. Edit `Directory.Build.props` and update `<GamePath>` if your Gorilla Tag is installed in a custom location
 3. Build the project with `Ctrl + Shift + B`
 4. ✅ The DLL will automatically go into your Gorilla Tag plugins folder
@@ -111,17 +112,17 @@ Join our [Discord](https://discord.gg/seralyth)!
 
 > [!NOTE]
 > This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2026 Another Axiom LLC.<br>
-> Menu sends requests to https://menu.seralyth.software for telemetry, administrative, and TTS (text to speech) purposes.<br>
-> Menu sends requests to https://text.pollinations.ai for the mod **AI Assistant** (when enabled).<br>
-> Menu sends requests to https://lazypy.ro for many TTS voices.<br>
+> Menu sends requests to [https://menu.seralyth.software](https://menu.seralyth.software) for telemetry, administrative, and TTS (text to speech) purposes.<br>
+> Menu sends requests to [https://text.pollinations.ai](https://text.pollinations.ai) for the mod **AI Assistant** (when enabled).<br>
+> Menu sends requests to [https://lazypy.ro](https://lazypy.ro) for many TTS voices.<br>
 > Menu connects to wss://menu.seralyth.software for friend system and administrative purposes.<br>
 > **Read our [Privacy Policy](https://seralyth.software/policy?tab=privacy) for details on how this data is collected and used.**<br>
-> The donate, search, star and speak symbols are provided from [Icons8](https://icons8.com).
+> The donate, search, star and speak symbols are provided from [Icons8](https://icons8.com/).
 
-> Seralyth Menu README.md<br>
+> Seralyth Reborn README.md<br>
 > A community driven mod menu for Gorilla Tag with over 1000+ mods
 >
-> Copyright (C) 2026 Seralyth Software
+> Copyright (C) 2026 Seralyth Software<br>
 > https://github.com/Seralyth/Seralyth-Menu
 >
 > This program is free software: you can redistribute it and/or modify
@@ -135,7 +136,7 @@ Join our [Discord](https://discord.gg/seralyth)!
 > GNU General Public License for more details.
 >
 > You should have received a copy of the GNU General Public License
-> along with this program. If not, see <https://www.gnu.org/licenses/>.
+> along with this program. If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
 
 > This product is not affiliated with Another Axiom Inc. or its videogames Gorilla Tag and Orion Drift and is not endorsed or otherwise sponsored by Another Axiom. Portions of the materials contained herein are property of Another Axiom. ©2021 Another Axiom Inc.
 
