@@ -133,7 +133,7 @@ Join our [**Discord**](https://discord.gg/n9s75fNb46)!
 > A community driven mod menu for Gorilla Tag with over 1000+ mods
 >
 > Copyright (C) 2026 Seralyth Software<br>
-> https://github.com/loadedxfiending/SeralythReborn-Menu
+> https://github.com/Seralyth/Seralyth-Menu/releases/tag/5.0.2
 >
 > This program is free software: you can redistribute it and/or modify
 > it under the terms of the GNU General Public License as published by
